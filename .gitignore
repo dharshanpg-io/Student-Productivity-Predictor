@@ -1,0 +1,11 @@
+target/
+*.class
+*.log
+*.tmp
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+data/prediction_history_local.json
